@@ -1,1 +1,1 @@
-# EInf mit WTFPL
+# EInf
