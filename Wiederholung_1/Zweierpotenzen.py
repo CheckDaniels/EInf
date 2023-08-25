@@ -1,0 +1,1 @@
+for i in range(11): print(pow(2,i))

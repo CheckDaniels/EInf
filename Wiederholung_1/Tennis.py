@@ -1,0 +1,1 @@
+Spieler = [["Djokovic",12133],["Medvedev", 10220],["Nadal", 8270],["Tritisipas", 8000],["Zverev", 7340]]
